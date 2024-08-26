@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**NyanAditya/NyanAditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a sophomore pursuing a **B.Tech in Computer Science and Engineering (CSE)** specialising in **Artificial Intelligence (AI)**. As I continue my journey in tech, I'm passionate about learning and diving deeper into the world of AI.
 
-Here are some ideas to get you started:
+## 🌍 Let's Collaborate
+I'm eager to collaborate with individuals and organizations across the globe to expand my knowledge and work on exciting projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently exploring the field of AI.
+- 🌱 Always learning and open to new challenges.
+- 💬 Let's talk about AI, tech, or interesting collaborations!
+
+
+[![](https://visitcount.itsvg.in/api?id=NyanAditya&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
